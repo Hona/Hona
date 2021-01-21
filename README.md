@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-269539.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/>
 </p>
 
 <p align="center"><img alt="Hona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hona&show_icons=true&hide_border=true&count_private=true"></p>
