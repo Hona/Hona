@@ -49,4 +49,4 @@
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<p align="center"><img alt="Hona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hona&show_icons=true&hide_border=true&count_private=true"></p>
+<p align="center"><img alt="Hona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hona&show_icons=true&hide_border=true&count_private=true&theme=react"></p>
