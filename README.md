@@ -1,4 +1,17 @@
-<p align="center"><img width="256" height="256" src="assets/Hona.gif" /></p>
+<p align="center">
+    <svg fill="none" viewBox="0 0 800 400" width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+        <foreignObject width="100%" height="100%">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                    img {
+                        border-radius: 50%;
+                    }
+                </style>
+                <img width="256" height="256" src="assets/Hona.gif" />
+            </div>
+        </foreignObject>
+    </svg>
+</p>
 
 <h2 align="center">Hello there! My name is Luke Parker 👋</h2>
 <p align="center">
