@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello there! My name is Luke Parker 👋</h2>
 <p align="center">
-    🎓 I'm currently studying my Bachelor's of Computer Science at The University of Queensland, with a double major in Programming Lanuages and Cyber Security. 💻 I'm passionate about creating full stack web solutions for online communities, or local businesses to help them focus on their goals instead of tedious tasks. 🛡️ I have an interest in cyber security and ethical hacking to help keep my own services secure, and help others.
+    🎓 I'm currently studying my Bachelor's of Computer Science at The University of Queensland, with a double major in Programming Languages and Cyber Security. 💻 I'm passionate about creating full stack web solutions for online communities, or local businesses to help them focus on their goals instead of tedious tasks. 🛡️ I have an interest in cyber security and ethical hacking to help keep my own services secure, and help others.
 </p>
 
 <p align="center">
