@@ -4,11 +4,11 @@
 
 <h2 align="center">Hello there! My name is Luke Parker 👋</h2>
 <p align="center">
-    🎓 I'm currently studying my Bachelor's of Computer Science at The University of Queensland, with a double major in Programming Languages and Cyber Security. 💻 I'm passionate about creating full stack web solutions for online communities, or local businesses to help them focus on their goals instead of tedious tasks. 🛡️ I have an interest in cyber security and ethical hacking to help keep my own services secure, and help others.
+
 </p>
 
 <p align="center">
-    When I'm free I love to contribute to open source software, such as <a href="https://github.com/momentum-mod">Momentum Mod<a/>
+
 </p>
 
 <p align="center">
@@ -25,10 +25,8 @@
 </p>
 <p align="center">
     <a href="https://tempushub.xyz"><img src="https://img.shields.io/badge/Tempus Hub-brown?style=flat-square"></a>
-    <a href="https://lukeparker.dev"><img src="https://img.shields.io/badge/Personal Portfolio/Blog-green?style=flat-square"></a>
-    <a href="https://jump-map-elo.lukeparker.dev"><img src="https://img.shields.io/badge/Jump Map Elo-red?style=flat-square"></a>
-    <a href="https://dev-reef.sharksvolleyballclub.com"><img src="https://img.shields.io/badge/Sports Club App-magenta?style=flat-square"></a>
-    <a href="https://officequotes.lukeparker.dev"><img src="https://img.shields.io/badge/The Office (US) Quotes-yellow?style=flat-square"></a>
+    <a href="https://lukeparker.dev"><img src="https://img.shields.io/badge/LukeParkerDev/Blog-green?style=flat-square"></a>
+    <a href="https://upblazor.com"><img src="https://img.shields.io/badge/Up Blazor-red?style=flat-square"></a>
 </p>
 
 <hr>
